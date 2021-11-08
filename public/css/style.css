@@ -1,0 +1,8 @@
+/* this line is default img class on Foundation */
+
+/* /this line is default img class on Foundation /  */
+
+img {
+    max-width: 100%;
+    height: auto;
+}
